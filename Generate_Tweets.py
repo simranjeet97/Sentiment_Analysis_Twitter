@@ -5,12 +5,12 @@ import tweepy
 import jsonpickle
 
 # Consume:
-CONSUMER_KEY = 'gnMK0HZOKbRr7SG3pnPOL8NBb'
-CONSUMER_SECRET = 'evQqHLw67IIaiN2ZVtf4hafvKI1F43SUuXLDtlbnfOLUny9JuP'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 # Access:
-ACCESS_TOKEN = '1055119460401586176-vzgC2kA2svqyCaejqZpf0gkMvIHBhh'
-ACCESS_SECRET = 'GShbZK6pnNv3kgwogisq0NH25r22MaOe2jH5cVBM04pwa'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
 
 
 def connect_to_twitter_OAuth():
